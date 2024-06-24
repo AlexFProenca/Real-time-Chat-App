@@ -1,5 +1,3 @@
-Absolutely! Let's move on to the second project: **Real-time Chat Application**. This project will feature a backend using Python with Flask and Socket.IO, and a frontend built with React and Socket.IO-client.
-
 ### Project Outline: Real-time Chat Application
 
 #### Project Description
